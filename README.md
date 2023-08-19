@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @001Aniqa
+- 👋 Hi, I’m Aniqa Iftikhar
 - 👀 I’m interested in ...web FrontEnd development.
 - 🌱 I’m currently learning ReactJS and Redux Saga.
 - 💞️ I’m looking to collaborate on ...
